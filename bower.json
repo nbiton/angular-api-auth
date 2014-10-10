@@ -1,13 +1,15 @@
 {
-  "author": "Witold Szczerba",
-  "name": "angular-http-auth",
-  "version": "1.2.1",
-  "homepage": "https://github.com/witoldsz/angular-http-auth",
+  "authors": [
+    "Witold Szczerba",
+    "Naor Biton"
+  ],
+  "name": "angular-api-auth",
+  "version": "0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/witoldsz/angular-http-auth.git"
+    "url": "git://github.com/nbiton/angular-api-auth.git"
   },
-  "main": "./src/http-auth-interceptor.js",
+  "main": "./src/api-auth-interceptor.js",
   "dependencies": {
     "angular": "^1.2"
   }
