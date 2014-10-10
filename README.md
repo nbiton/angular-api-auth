@@ -1,5 +1,12 @@
-HTTP Auth Interceptor Module
+API Auth Interceptor Module
 ============================
+
+This module is an extended modification of the fantastic work done by Witold Szczerba.
+It could be configured to use more than one transport type, as long as it's compliant with the same interface as the $http service.
+An example use case is usage with $sailsSocket service provided by the angularSails module.
+
+Further instructions and explanations will be added in the future.
+
 for AngularJS
 -------------
 
